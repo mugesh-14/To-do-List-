@@ -62,3 +62,22 @@ ul li{
     cursor: pointer;
     position: relative;
 }
+ul li::before {
+    content: '';
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    background-image: url(images/unchecked.jpeg);
+    background-size: cover;
+    background-position: center;
+    top:12px ;
+    left: 8px;
+}
+ul li.checked{
+    color:#000000;
+    /* text-decoration: line-through; */
+}
+ul li.checked::before{
+    background-image: url(images/checked.jpeg);
+}
