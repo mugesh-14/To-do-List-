@@ -76,7 +76,7 @@ ul li::before {
 }
 ul li.checked{
     color:#000000;
-    /* text-decoration: line-through; */
+    text-decoration: line-through;
 }
 ul li.checked::before{
     background-image: url(images/checked.jpeg);
@@ -88,7 +88,7 @@ ul li span{
     width: 40px;
     height: 40px;
     font-size: 22px;
-    color: #555;
+    color: #000000;
     line-height: 40px;
     text-align: center;
     border-radius: 50%;
