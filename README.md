@@ -61,7 +61,7 @@ It allows users to add, mark as complete, and delete tasks with data persistence
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/to-do-list.git
+   git clone https://github.com/mugesh-14/To-do-List-
    ```
 2. Open `index.html` in your browser.
 3. Start adding tasks! ✅
