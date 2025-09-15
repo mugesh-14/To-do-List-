@@ -53,7 +53,10 @@ It allows users to add, mark as complete, and delete tasks with data persistence
 
 ## 📸 Screenshots
 
-(Add screenshots here if you want, e.g., before/after adding tasks.)
+![image alt](https://github.com/mugesh-14/To-do-List-/blob/3b0fdfd8eb61b8b6d5e2be4fd9b4547ae2564813/images/1.png)
+![image alt](https://github.com/mugesh-14/To-do-List-/blob/3b0fdfd8eb61b8b6d5e2be4fd9b4547ae2564813/images/2.png)
+
+![image alt](https://github.com/mugesh-14/To-do-List-/blob/3b0fdfd8eb61b8b6d5e2be4fd9b4547ae2564813/images/3.png)
 
 ---
 
